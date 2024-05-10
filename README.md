@@ -68,9 +68,7 @@ Challenge's answers:
 - 
     - Number of medicine available of different benefit area.
    
-    ![medicine availble](https://github.com/DinkarSaroj/1MG-Analysis/assets/156825223/76259c73-7cfc-4540-bd25-688c76554445)
-
-
+      "C:\Users\laptop\Pictures\medicine availble.png"
     - Price range of medicine for each benefit area.
    
     ![image](https://github.com/DinkarSaroj/1MG-Analysis/assets/156825223/001e7155-e163-4ba8-a851-e2f48720882a)
