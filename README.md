@@ -1,4 +1,3 @@
-![image](https://github.com/DinkarSaroj/1MG-Analysis/assets/156825223/b5240c2d-f92c-4c93-8f64-c0ee02095ea7)1Mg Homeopathic :
 Objective:
 - You are hired in a consultancy firm, one of their client want to open a homeopathic medicine store what is their total cost for open their store.
 -  Create an interactive dashboard for them to analyze and select best medicine for their store. (Use benefit area as a filter)
@@ -73,7 +72,9 @@ Challenge's answers:
 
 
     - Price range of medicine for each benefit area.
-    
+   
+    ![image](https://github.com/DinkarSaroj/1MG-Analysis/assets/156825223/001e7155-e163-4ba8-a851-e2f48720882a)
+
     - Brand specialization(Key Benefits) of each area.
     
     - Average price, min price , max price and number of products for each brand.
