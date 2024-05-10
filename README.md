@@ -1,12 +1,15 @@
 Objective:
-- You are hired in a consultancy firm, one of their client want to open a homeopathic medicine store what is their total cost for open their store.
--  Create an interactive dashboard for them to analyze and select best medicine for their store. (Use benefit area as a filter)
-- Utilize a sentiment analysis library such as NLTK (Natural Language Toolkit) or TextBlob to analyze the sentiment of the extracted review text.
+         - You are hired in a consultancy firm, one of their client want to open a homeopathic medicine store what is their total cost 
+           for open their store.
+         -  Create an interactive dashboard for them to analyze and select best medicine for their store. (Use benefit area as a filter)
+         - Utilize a sentiment analysis library such as NLTK (Natural Language Toolkit) or TextBlob to analyze the sentiment of the 
+            extracted review text.
 
-Scrape the homeopathic medicine data from online medicine delivery platform 1mg using python library called Beautifulsoup (or similar) and collect information
-in the given format and make 2 tables using the data:
+Scrape the homeopathic medicine data from online medicine delivery platform 1mg using python library called Beautifulsoup (or similar) and collect information in the given format and make 2 tables using the data:
  
 Table 1 : medicine_name
+
+
 Attributes in table - 2:
 
 name - Name of the medicine
@@ -68,7 +71,7 @@ Challenge's answers:
 - 
     - Number of medicine available of different benefit area.
    
-      "C:\Users\laptop\Pictures\medicine availble.png"
+   
     - Price range of medicine for each benefit area.
    
     ![image](https://github.com/DinkarSaroj/1MG-Analysis/assets/156825223/001e7155-e163-4ba8-a851-e2f48720882a)
@@ -84,3 +87,5 @@ Challenge's answers:
     - **Average cost for ingredients.**
     - Most used ingredient
     - Which brand has most greater than 4 point review medicine?
+    ![image](https://github.com/DinkarSaroj/1MG-Analysis/assets/156825223/bb3c174c-895b-48dc-86b5-b2027016229b)
+
