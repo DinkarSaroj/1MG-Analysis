@@ -79,18 +79,19 @@ The price ,Review and Brand is obviously the target of this challenge, as our go
    
     - Price range of medicine for each benefit area.
    
-    
+    ![image](https://github.com/DinkarSaroj/1MG-Analysis/assets/156825223/6f8a172d-737c-4b33-bfa4-c4773b2bfbea)
 
-    - Brand specialization(Key Benefits) of each area.
+
     
     - Average price, min price , max price and number of products for each brand.
+    - ![image](https://github.com/DinkarSaroj/1MG-Analysis/assets/156825223/22b32acf-010d-4ca9-9ed3-3af9837952f9)
+
     
     - Average number of rating for each brand in their specialization products where  the number of rating is not NULL.
-    
-    - Maximum number of times ingredient used in each benefit area.
-    
-    - **Average cost for ingredients.**
-    - Most used ingredient
-    - Which brand has most greater than 4 point review medicine?
-    ![image](https://github.com/DinkarSaroj/1MG-Analysis/assets/156825223/bb3c174c-895b-48dc-86b5-b2027016229b)
+    ![image](https://github.com/DinkarSaroj/1MG-Analysis/assets/156825223/91587158-a6f2-441e-9b24-20780ea3a5fd)
+## Dashboard:
+![1mgDashboard](https://github.com/DinkarSaroj/1MG-Analysis/assets/156825223/baf0ffb5-597c-48a6-b6e1-217fab7d0c90)
 
+   
+    
+    
