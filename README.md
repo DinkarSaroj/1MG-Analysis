@@ -1,6 +1,5 @@
 #  1Mg Homeopathic Analysis
 
-
 ## Objective:
          - You are hired in a consultancy firm, one of their client want to open a homeopathic medicine store what is their total cost 
            for open their store.
